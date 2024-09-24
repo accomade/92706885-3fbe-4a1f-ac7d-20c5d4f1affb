@@ -7,18 +7,18 @@
       "padding": "10vw",
       "blocks": [
         {
-          "id": "delicious-strawberry",
+          "id": "toxic-black-ash",
           "kind": "text",
           "content": {
-            "ref": "interim-devils-nose"
+            "ref": "anxious-rye"
           }
         },
         {
-          "id": "marxist-thimbleberry",
+          "id": "rude-mirbecks-oak",
           "kind": "photo",
           "content": {
             "photoPath": "prev/users/template1/town_3.jpg",
-            "alt": "tropical-golden-buttons",
+            "alt": "curved-cutleaf-coneflower",
             "height": "30vh"
           }
         }
@@ -30,7 +30,7 @@
       "padding": "0",
       "blocks": [
         {
-          "id": "future-spotted-deadnettle",
+          "id": "tragic-chestnut",
           "kind": "weather",
           "content": {
             "header1": "weatherHeader1",
@@ -46,7 +46,7 @@
       "padding": "0",
       "blocks": [
         {
-          "id": "pink-water-birch",
+          "id": "static-swine-thistle",
           "kind": "photo-gallery",
           "content": {
             "photos": [
@@ -93,7 +93,7 @@
       "padding": "10vw",
       "blocks": [
         {
-          "id": "consistent-bay-laurel",
+          "id": "visiting-tickleweed",
           "kind": "leaflet-map",
           "content": {
             "address": "Usedom",
