@@ -1,97 +1,108 @@
 {
-  "headerPhoto": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/a04d9149-d9cf-4ae4-9bcd-681856955231",
+  "headerPhoto": "prev/users/template1/hero.jpg",
   "sections": [
     {
+      "header": "town",
+      "columnCount": 2,
+      "padding": "10vw",
       "blocks": [
         {
-          "content": {
-            "maxFontSize": "",
-            "minFontSize": "",
-            "minHeight": "",
-            "ref": "excellent-coakum"
-          },
+          "id": "delicious-strawberry",
           "kind": "text",
-          "id": "printed-marsh-ragwort"
+          "content": {
+            "ref": "interim-devils-nose"
+          }
         },
         {
-          "content": {
-            "alt": "rich-black-eyed-susan",
-            "attribution": "",
-            "height": "30vh",
-            "link": "",
-            "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/299435a8-7844-48ca-b8c2-167bc6ce6389"
-          },
+          "id": "marxist-thimbleberry",
           "kind": "photo",
-          "id": "long-carolina-azolla"
+          "content": {
+            "photoPath": "prev/users/template1/town_3.jpg",
+            "alt": "tropical-golden-buttons",
+            "height": "30vh"
+          }
         }
-      ],
-      "columnCount": 2,
-      "header": "town",
-      "padding": "10vw"
+      ]
     },
     {
-      "blocks": [
-        {
-          "content": {
-            "location": "54d0514d00/koserow/",
-            "header1": "nasty-thin-leaved-coneflower-block-compact-swamp-hellebore",
-            "header2": "nasty-thin-leaved-coneflower-block-devoted-mango"
-          },
-          "kind": "weather",
-          "id": "available-birds-nest-plant"
-        }
-      ],
-      "columnCount": 1,
       "header": "weather",
-      "padding": "0"
-    },
-    {
+      "columnCount": 1,
+      "padding": "0",
       "blocks": [
         {
+          "id": "future-spotted-deadnettle",
+          "kind": "weather",
           "content": {
-            "gridPhotoWidth": 500,
+            "header1": "weatherHeader1",
+            "header2": "weatherHeader2",
+            "location": "53d8813d92/usedom/"
+          }
+        }
+      ]
+    },
+    {
+      "header": "impressions",
+      "columnCount": 1,
+      "padding": "0",
+      "blocks": [
+        {
+          "id": "pink-water-birch",
+          "kind": "photo-gallery",
+          "content": {
             "photos": [
               {
-                "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/f883c950-da8d-4b07-ad79-44260e847c02"
+                "photoPath": "prev/users/template1/town_2.jpg",
+                "alt": ""
               },
               {
-                "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/05b30839-e37b-4788-857a-43f2c3042598"
+                "photoPath": "prev/users/template1/town_1.jpg",
+                "alt": ""
               },
               {
-                "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/a04d9149-d9cf-4ae4-9bcd-681856955231"
+                "photoPath": "prev/users/template1/beach_1.jpg",
+                "alt": ""
               },
               {
-                "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/3656e302-28e9-46b0-926f-60f6dae4aa86"
+                "photoPath": "prev/users/template1/beach_2.jpg",
+                "alt": ""
               },
               {
-                "photoPath": "prod/users/81e66599-ac3c-4ad6-b261-fceeb784f9e9/e5056f8f-5402-41d7-bda4-befda567d64b"
+                "photoPath": "prev/users/template1/beach_3.jpg",
+                "alt": ""
+              },
+              {
+                "photoPath": "prev/users/template1/beach_4.jpg",
+                "alt": ""
+              },
+              {
+                "photoPath": "prev/users/template1/beach_5.jpg",
+                "alt": ""
+              },
+              {
+                "photoPath": "prev/users/template1/beach_6.jpg",
+                "alt": ""
               }
             ]
-          },
-          "kind": "photo-gallery",
-          "id": "varying-hedge-plant"
+          }
         }
-      ],
-      "columnCount": 1,
-      "header": "impressions",
-      "padding": "0"
+      ]
     },
     {
+      "header": "directions",
+      "columnCount": 1,
+      "padding": "10vw",
       "blocks": [
         {
-          "content": {
-            "address": "Achterstr. 3, 17459 Koserow",
-            "lat": "54.048225890957866",
-            "long": "13.997402242070073",
-            "zoom": 17
-          },
+          "id": "consistent-bay-laurel",
           "kind": "leaflet-map",
-          "id": "still-trillium"
+          "content": {
+            "address": "Usedom",
+            "lat": 53.9889945,
+            "long": 13.8813083,
+            "zoom": 11
+          }
         }
-      ],
-      "columnCount": 1,
-      "header": "directions",
-      "padding": "10vw"
+      ]
     }
   ]
 }
