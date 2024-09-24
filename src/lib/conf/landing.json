@@ -7,18 +7,18 @@
       "padding": "10vw",
       "blocks": [
         {
-          "id": "toxic-black-ash",
+          "id": "spare-stammerwort",
           "kind": "text",
           "content": {
-            "ref": "anxious-rye"
+            "ref": "tasty-black-birch"
           }
         },
         {
-          "id": "rude-mirbecks-oak",
+          "id": "real-poor-mans-mustard",
           "kind": "photo",
           "content": {
             "photoPath": "prev/users/template1/town_3.jpg",
-            "alt": "curved-cutleaf-coneflower",
+            "alt": "missing-poplar",
             "height": "30vh"
           }
         }
@@ -30,7 +30,7 @@
       "padding": "0",
       "blocks": [
         {
-          "id": "tragic-chestnut",
+          "id": "hon-cherry-birch",
           "kind": "weather",
           "content": {
             "header1": "weatherHeader1",
@@ -46,7 +46,7 @@
       "padding": "0",
       "blocks": [
         {
-          "id": "static-swine-thistle",
+          "id": "psychological-cornelian-tree",
           "kind": "photo-gallery",
           "content": {
             "photos": [
@@ -93,7 +93,7 @@
       "padding": "10vw",
       "blocks": [
         {
-          "id": "visiting-tickleweed",
+          "id": "tasteless-cabinet-cherry",
           "kind": "leaflet-map",
           "content": {
             "address": "Usedom",
